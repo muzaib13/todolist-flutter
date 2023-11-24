@@ -13,7 +13,7 @@ This repository contains the Flutter-based Todo List application, utilizing Back
 
 2. **Navigate to the Project Directory**:
    ```
-   cd flutter-todo-list-app
+   cd todolist-flutter
    ```
 
 ## Integrating Back4App
